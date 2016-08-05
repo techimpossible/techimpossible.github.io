@@ -7,9 +7,7 @@ layout: post
 
 
 
-Yes and no. 
-
-![]({{site.baseurl}}/images/image.jpeg)
+Yes and no
 
 
 ### Not this particular one. Not on medium. Medium doesn’t use external scripts. Which is a good thing and refreshing to see.
