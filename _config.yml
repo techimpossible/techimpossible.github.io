@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://techimpossible.github.io
+title: Peter Skaronis
+tagline: Create something every day!
+description: This is my personal page where I keep track of things I do every day. Projects, hacks and learning. 
+paginate: 5
