@@ -1,0 +1,10 @@
+---
+published: true
+title: Writing
+layout: post
+tags: [Writing, articles]
+categories: [Writing]
+---
+I have started writing articles on various topics on my own blogs and other publications. 
+
+> Techimpossible
